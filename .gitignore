@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+*.mp4
+*.mov
+models/*.task
